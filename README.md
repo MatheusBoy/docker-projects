@@ -1,5 +1,4 @@
 # Docker Projects
 
-Files for small Docker Projects developed within the Docker and Kubernetes cours
-e.
+Files for small Docker Projects developed within the Docker and Kubernetes course.
 
